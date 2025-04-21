@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    basePath: '/disclaimer',
+    basePath: '',
     images: {
         unoptimized: true,
     },
