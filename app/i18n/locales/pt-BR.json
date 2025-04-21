@@ -1,0 +1,13 @@
+{
+  "title": "Olá, antes de me enviar uma mensagem, por favor leia:",
+  "badge": "Se você encontrou esta página através do meu perfil do Discord, leia isto. Se não - ignore esta página.",
+  "disclaimers": {
+    "1": "Eu não sou desenvolvedor do Hydra",
+    "2": "Eu não sei por que seu Hydra não funciona",
+    "3": "Eu não sei se você pode jogar este \"jogo\" online com seus amigos",
+    "4": "Se você me enviar uma mensagem sobre problemas com o Hydra, não responderei.",
+    "5": "Eu não sei se seu jogo está disponível no Hydra. (Verifique <link>aqui</link>)",
+    "6": "Não estou procurando amigos, por favor não me envie mensagem sem motivo."
+  },
+  "socials": "Links para minhas redes sociais"
+} 
